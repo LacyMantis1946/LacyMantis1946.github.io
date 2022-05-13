@@ -1,0 +1,8 @@
+body{
+  background-color:rgba(71, 109, 52, 1) ;  
+ } 
+.uno{
+   list-style: none;
+   display: flex;
+   justify-content: space-evenly;
+ }
